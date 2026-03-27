@@ -7,7 +7,7 @@
 **Licensed Electronics Engineer & Technician**  
 *Specializing in Network Infrastructure, Systems Administration, and Virtualization*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-macabata-9675013ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcTpicGFMRWGrFLustZSGKw%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-macabata-9675013ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcTpicGFMRWGrFLustZSGKw%3D%3D)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaberPendragonn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.anthony.macabata@gmail.com)
 
@@ -21,29 +21,30 @@ I am a dual-licensed Electronics Engineer and Technician with hands-on experienc
 ---
 
 ### 🚀 Core Competencies
-- **Network Design & Routing:** VLAN segmentation, OSPF/BGP, multi-site connectivity  
-- **Systems Administration:** Active Directory, DNS/DHCP, GPOs, Windows Server environments  
-- **Virtualization & High Availability:** VMware ESXi, VirtualBox, sandbox clusters, disaster recovery  
-- **Infrastructure Security:** Firewalls, ACLs, NAT, perimeter hardening, secure routing  
-- **Automation & Scripting:** PowerShell, infrastructure automation, configuration management  
+- **Network Design & Routing:** VLAN, OSPF/BGP, VPN, & more
+- **Systems Administration:** Active Directory, Group Policy, DNS/DHCP, & more
+- **Virtualization & High Availability:** VMware, VirtualBox, & Hyper-V  
+- **Infrastructure Security:** Firewalls, ACLs, NAT, QOS, & more
+- **Automation & Scripting:** PowerShell & Python  
 - **Technical Documentation:** Network diagrams, patch panel maps, system schematics  
 
 ---
 
-### 📂 Projects & Portfolio
+### 📂 Projects & Portfolio (CLICK DOWN BELOW)
 #### [Enterprise Network & Systems Engineering Portfolio](https://github.com/SaberPendragonn/network-and-systems-portfolio)
-*Production-grade simulations, server deployments, and network hardening exercises.*
+*Production-grade simulations, server deployments, and network hardening laboratories.* 
 
-- **Network Architecture:** Designed multi-site VLANs, implemented OSPF/BGP routing in **MikroTik (RouterOS)** and GNS3 simulations.  
-- **Systems Administration:** Built Active Directory domains with integrated DNS, DHCP, and GPO automation.  
-- **Virtualization & HA:** Created isolated ESXi and VirtualBox sandboxes to validate failover clusters and disaster recovery.  
+- **Network Architecture:** Designed multi-site VLANs, implemented OSPF/BGP routing, ... in **MikroTik (RouterOS)** and GNS3 simulations.  
+- **Systems Administration:** Built Active Directory domains with integrated DNS, DHCP, GPO automation, ...  
+- **Virtualization & HA:** Created isolated Virtual sandboxes on VmWare/Hyper-V/VirtualBox to validate failover clusters & disaster recovery.  
 - **Infrastructure Security:** Applied Firewall Filters, ACLs, and NAT policies to strengthen perimeter security.
+- **and so much more!**
 
 ---
 
 ### 🏢 Professional Experience
 **D.M. Consunji, Inc. (DMCI)** | *Engineering Intern* | *2025*  
-- Conducted inspections and QA for **Structured Cabling Systems** across large-scale projects.  
+- Conducted inspections and Quality Assurance for **Structured Cabling Systems** across the large-scale project.  
 - Standardized technical documentation, including patch panel mapping and network schematics.  
 - Ensured auxiliary systems deployment complied with IT infrastructure standards and best practices.
 
@@ -97,4 +98,4 @@ I am a dual-licensed Electronics Engineer and Technician with hands-on experienc
 ### 🏆 Achievements
 - Champion — Programming Contest *(Python/C)*  
 - IECEP Regional Quizzer  
-- Thesis: *Virtualized Wireless Sensor Network Laboratory*  
+- Thesis: System Virtualization and Wireless Sensor Network Laboratory Experiment System
