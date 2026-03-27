@@ -4,8 +4,7 @@
 
 <img src="https://i.imgur.com/bAyfZ25.png" width="120" style="border-radius:50%; border: 3px solid #24292e;" />
 
-**Licensed Electronics and Communication Engineer**
-**Licensed Electronics Technician**
+**Licensed Electronics Engineer & Technician**
 *Specializing in Network Infrastructure, Systems Administration, and Virtualization*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-macabata-9675013ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcTpicGFMRWGrFLustZSGKw%3D%3D)
