@@ -30,13 +30,13 @@ I am a dual-licensed Electronics Engineer and Technician with hands-on experienc
 
 ---
 
-### 📂 Projects & Portfolio (CLICK DOWN BELOW)
+### 📂 Projects & Portfolio (CLICK THE LINK BELOW)
 #### [Enterprise Network & Systems Engineering Portfolio](https://github.com/SaberPendragonn/network-and-systems-portfolio)
 *Production-grade simulations, server deployments, and network hardening laboratories.* 
 
-- **Network Architecture:** Designed multi-site VLANs, implemented OSPF/BGP routing, ... in **MikroTik (RouterOS)** and GNS3 simulations.  
+- **Network Architecture:** Designed multi-site VLANs, implemented OSPF/BGP routing, ... in **MikroTik (RouterOS)** and GNS3.  
 - **Systems Administration:** Built Active Directory domains with integrated DNS, DHCP, GPO automation, ...  
-- **Virtualization & HA:** Created isolated Virtual sandboxes on VmWare/Hyper-V/VirtualBox to validate failover clusters & disaster recovery.  
+- **Virtualization & HA:** Created virtual sandboxes on VmWare/Hyper-V/VirtualBox to validate failover clusters & disaster recovery.  
 - **Infrastructure Security:** Applied Firewall Filters, ACLs, and NAT policies to strengthen perimeter security.
 - **and so much more!**
 
@@ -90,12 +90,12 @@ I am a dual-licensed Electronics Engineer and Technician with hands-on experienc
 - Structured Cabling Systems  
 - Public Address & Background Music Systems (PABGM)  
 - Auxiliary Systems Training  
-- MikroTik MTCNA Training Camp  
+- MikroTik (MTCNA) Training Camp  
 - ECE Career Compass: IT & Engineering Roles  
 
 ---
 
 ### 🏆 Achievements
-- Champion — Programming Contest *(Python/C)*  
-- IECEP Regional Quizzer  
-- Thesis: System Virtualization and Wireless Sensor Network Laboratory Experiment System
+- **Champion** - Programming Contest *(Python/C)*  
+- **IECEP** - Regional Quizzer  
+- **Thesis:** System Virtualization and Wireless Sensor Network Laboratory Experiment System
