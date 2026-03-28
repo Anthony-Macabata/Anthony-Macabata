@@ -17,7 +17,7 @@
 ---
 
 ### 💡 Professional Summary
-I am a dual-licensed Electronics Engineer and Technician with hands-on experience in designing, deploying, and securing enterprise-grade network infrastructures. I specialize in bridging physical electronics with IT systems, delivering **scalable virtualization**, **automated system management**, and **robust security architectures**. My focus is on creating highly available, documented environments that meet industry standards and enable operational excellence.
+Hello, and welcome to my personal portfolio! I am a dual-licensed Electronics Engineer and Technician with hands-on experience in designing, deploying, and securing enterprise-grade network infrastructures. I specialize in bridging physical electronics with IT systems, delivering **scalable virtualization**, **automated system management**, and **robust security architectures**. My focus is on creating highly available, documented environments that meet industry standards and enable operational excellence.
 
 ---
 
