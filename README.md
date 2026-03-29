@@ -50,7 +50,7 @@ Hello, and welcome to my personal portfolio! I am a dual-licensed Electronics En
         <img src="https://img.shields.io/badge/-MikroTik-EE3A43?style=for-the-badge&logo=mikrotik&logoColor=white" /><br><br>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/l41lTfuxB7T6zW304/giphy.gif" width="100%" style="border-radius: 8px;" />
         <p style="font-size: 14px; margin: 15px 0;">
-          <a href="URL_HERE" style="color: #8b949e; text-decoration: none;">
+          <a href="https://github.com/Anthony-Macabata/main-portfolio/blob/main/README.md" style="color: #8b949e; text-decoration: none;">
             <b>Multi-Site Routing:</b> Designed multi-site VLANs and implemented OSPF/BGP protocols.
           </a>
         </p>
