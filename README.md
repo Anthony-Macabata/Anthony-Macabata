@@ -39,7 +39,7 @@ Hello, and welcome to my personal portfolio! I am a dual-licensed Electronics En
         <img src="https://img.shields.io/badge/-Windows%20Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white" /><br><br>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpx9uHstT904/giphy.gif" width="100%" style="border-radius: 8px;" />
         <p style="font-size: 14px; margin: 15px 0;">
-          <a href="URL_HERE" style="color: #8b949e; text-decoration: none;">
+          <a href="https://github.com/Anthony-Macabata/main-portfolio/blob/main/README.md" style="color: #8b949e; text-decoration: none;">
             <b>Enterprise AD Lab:</b> Built Active Directory domains with DNS, DHCP, and GPO automation.
           </a>
         </p>
