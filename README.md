@@ -6,7 +6,6 @@
 
 **Licensed Electronics and Communication Engineer**  
 **Licensed Electronics Technician**  
-*Specializing in Network Infrastructure, Systems Administration, and Virtualization*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-macabata-9675013ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcTpicGFMRWGrFLustZSGKw%3D%3D)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaberPendragonn)
@@ -17,7 +16,7 @@
 ---
 
 ### 💡 Professional Summary
-I am a dual-licensed Electronics Engineer and Technician with hands-on experience building highly available, secure, and performance-optimized enterprise networks.
+I am a dual-licensed Electronics Engineer and Technician aspiring to be a Network Engineer. After passing both licensure exams, I dedicated the following months designing and implementing networking projects. Through these projects, I developed hands-on experience in network redundancy, high availability, traffic engineering, security, and wireless network management. Committed to continuous learning, I am actively expanding my knowledge of other networking vendors.
 
 ---
 
