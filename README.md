@@ -15,147 +15,56 @@
 
 ---
 
-### 💡 Professional Summary
-I am a dual-licensed Electronics Engineer and Technician aspiring to be a Network Engineer. After passing both licensure exams, I dedicated the following months designing and implementing networking projects. Through these projects, I developed hands-on experience in network redundancy, high availability, traffic engineering, security, and wireless network management. Committed to continuous learning, By the time you read this, I am likely studying another networking platform, technology, or vendor to further expand my understanding of enterprise networking.
+## ABOUT ME
+
+I am a dual-licensed Electronics Engineer and Technician aspiring to be a Network Engineer. After passing both licensure exams, I dedicated the following months designing and implementing networking projects. Working intensively with MikroTik RouterOS, I developed hands-on experience in network redundancy, high availability, traffic engineering, security, and wireless network management.
 
 ---
 
-### Project Highlights
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: #0d1117; height: 320px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpx9uHstT904/giphy.gif" width="100%" style="border-radius: 8px; max-height: 150px; object-fit: cover;" />
-        <p style="font-size: 14px; margin: 15px 0;">
-          <a href="https://github.com/Anthony-Macabata/main-portfolio" style="color: #58a6ff; text-decoration: none;">
-            <b>VPN Optimization:</b> Benchmarked L2TP/IPsec, SSTP, and OpenVPN; achieved 95% line-rate throughput on MikroTik.
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: #0d1117; height: 320px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/l41lTfuxB7T6zW304/giphy.gif" width="100%" style="border-radius: 8px; max-height: 150px; object-fit: cover;" />
-        <p style="font-size: 14px; margin: 15px 0;">
-          <a href="https://github.com/Anthony-Macabata/main-portfolio" style="color: #58a6ff; text-decoration: none;">
-            <b>BGP Failover:</b> Engineered dual-WAN redundancy with automated redirection, cutting failover time to <5s.
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: #0d1117; height: 320px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPZqc7gM7uIE/giphy.gif" width="100%" style="border-radius: 8px; max-height: 150px; object-fit: cover;" />
-        <p style="font-size: 14px; margin: 15px 0;">
-          <a href="https://github.com/Anthony-Macabata/main-portfolio" style="color: #58a6ff; text-decoration: none;">
-            <b>Enterprise Segmentation:</b> Designed VLAN isolation and authored custom LCD drivers for real-time hardware monitoring.
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: #0d1117; height: 320px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/uS071hlk6FcrS/giphy.gif" width="100%" style="border-radius: 8px; max-height: 150px; object-fit: cover;" />
-        <p style="font-size: 14px; margin: 15px 0;">
-          <a href="https://github.com/Anthony-Macabata/main-portfolio" style="color: #58a6ff; text-decoration: none;">
-            <b>HWMP+ Mesh:</b> Deployed self-healing wireless mesh with VLAN roaming, increasing coverage area by 60%.
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: #0d1117; height: 320px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpx9uHstT904/giphy.gif" width="100%" style="border-radius: 8px; max-height: 150px; object-fit: cover;" />
-        <p style="font-size: 14px; margin: 15px 0;">
-          <a href="https://github.com/Anthony-Macabata/main-portfolio" style="color: #58a6ff; text-decoration: none;">
-            <b>DDoS Mitigation:</b> Developed MikroTik firewall filters for SYN/UDP flood attacks, maintaining 100% network uptime.
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: #0d1117; height: 320px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpx9uHstT904/giphy.gif" width="100%" style="border-radius: 8px; max-height: 150px; object-fit: cover;" />
-        <p style="font-size: 14px; margin: 15px 0;">
-          <a href="https://github.com/Anthony-Macabata/main-portfolio" style="color: #58a6ff; text-decoration: none;">
-            <b>Enterprise AD Lab:</b> Built Active Directory domains with DNS, DHCP, and GPO automation for system management.
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table> 
+## PROFESSIONAL EXPERIENCE
+
+**D.M. Consunji, Inc. (DMCI)** | *Project Engineering Intern* | *2025*  
+- Conducted inspections and Quality Assurance for Structured Cabling Systems across the site
+- Performed RJ45 termination, cable testing, and coordinated with engineers and contractors during installations
 
 ---
 
-### Core Competencies
-- **Network Design & Routing:** VLAN, OSPF/BGP, VPN, & more
-- **Systems Administration:** Active Directory, Group Policy, DNS/DHCP, & more
-- **Virtualization & High Availability:** VMware, VirtualBox, & Hyper-V  
-- **Infrastructure Security:** Firewalls, ACLs, NAT, QOS, & more
-- **Automation & Scripting:** PowerShell & Python  
-- **Technical Documentation:** Network diagrams, patch panel maps, system schematics  
+## PROJECTS (CLICK THE LINKS)
+
+**[High Availability Enterprise Network (VLANs, VRRP, MSTP, DHCP Failover)](https://github.com/your-username/your-repo-link](https://github.com/Anthony-Macabata/Built-Active-Active-Enterprise-Core-with-VRRP-MSTP-DHCP-Failover)**  
+- Designed an Active-Active enterprise network utilizing VRRP, MSTP, and split-scope DHCP failover to provide resilient gateway, link, and ip-addressing.
+- Validated sub-second failover convergence during simulated router and link failure scenarios
+
+**[Dual-WAN Load Balancing and Failover Architecture (PCC & Recursive Routing)](https://github.com/Anthony-Macabata/Designed-PCC-Queue-Trees-with-CAKE-Smart-Queue-Management)**  
+- Engineered a Dual-WAN solution using PCC load balancing, and recursive route monitoring for intelligent traffic load balancing and ISP failover
+- Validated automatic recovery during upstream connectivity failures
+
+**[Quality of Service Optimization Using Queue Trees and CAKE Smart Queue Management](https://github.com/Anthony-Macabata/Designed-PCC-Queue-Trees-with-CAKE-Smart-Queue-Management)**  
+- Built a hierarchical QoS framework using Queue Trees and CAKE Smart Queue Management to mitigate bufferbloat and improve bandwidth fairness
+- Achieved an A+ Bufferbloat rating while prioritizing voice, video, and critical application traffic under network congestion
+
+**[Enterprise Wireless Infrastructure (CAPsMAN, Hotspot, RADIUS, VRRP)](https://github.com/Anthony-Macabata/Deployed-Wireless-Infrastructure-with-CAPsMAN-Hotspot-RADIUS-and-VRRP-Failover)**  
+- Deployed a centrally managed wireless infrastructure with CAPsMAN, Hotspot Captive Portals, and RADIUS authentication for secure access control
+
+**[Hardened Network Infrastructure (Internal, Router & External Security)](https://github.com/Anthony-Macabata/Hardened-Network-Infrastructure-Internal-Router-External-Security-Deployment)**  
+- Hardened the LAN and WAN via 802.1X RADIUS certificate authentication, VLAN segmentation, DHCP Snooping, ARP isolation, DNS over HTTPS (DoH), Bogon filtering, port scan detection, and mitigation of SYN, UDP, and ICMP flood attacks
+- Hardened the Router via port knocking, custom management ports, eliminated exploits by disabling unnecessary services, bandwidth-test, MAC login, and MNDP discovery
 
 ---
 
-### 🏢 Professional Experience
-**D.M. Consunji, Inc. (DMCI)** | *Engineering Intern* | *2025*  
-- Conducted inspections and Quality Assurance for **Structured Cabling Systems** across the large-scale project.  
-- Standardized technical documentation, including patch panel mapping and network schematics.  
-- Ensured auxiliary systems deployment complied with IT infrastructure standards and best practices.
+## EDUCATION
+
+**Laguna State Polytechnic University** | *2021-2025*  
+- **Achievements:** Electronics Engineer Regional Quizzer | University-Wide C/Python Programming Representative
 
 ---
 
-### 🛠 Tech Stack
+## SKILLS & CERTIFICATIONS
 
-<table align="center" cellspacing="15">
-<tr>
-<td align="center">
-<img src="https://i.imgur.com/giz2X3y.png" width="80"><br>MikroTik
-</td>
-<td align="center">
-<img src="https://i.imgur.com/fN0DZaX.png" width="65"><br>WinBox
-</td>
-<td align="center">
-<img src="https://i.imgur.com/ZanTLkR.png" width="65"><br>GNS3
-</td>
-<td align="center">
-<img src="https://i.imgur.com/OHP9jkt.png" width="75"><br>VirtualBox
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://i.imgur.com/DOZcEtL.png" width="75"><br>VMware ESXi
-</td>
-<td align="center">
-<img src="https://i.imgur.com/SiCyQrz.png" width="80"><br>Windows Server
-</td>
-<td align="center">
-<img src="https://i.imgur.com/azY7EfE.png" width="70"><br>PowerShell
-</td>
-<td align="center">
-<img src="https://i.imgur.com/d6wCzdZ.png" width="75"><br>GitHub
-</td>
-</tr>
-</table>
+**Tools & Platforms:** MikroTik, WinBox, VMware, VirtualBox, Hyper-V, GNS3, Linux, Wireshark, Python, Cisco Packet Tracer, Putty
 
----
+**Networking & Security:** VRRP, MSTP, LACP, VPN, VLAN, DHCP, DNS, DoH, CAKE, PCQ, FQ-CODEL, 802.1X, MACSEC, OSPF, NAT, Tunneling Protocols, VLSM, TCP/IP | Basic: BGP, MPLS, NMAP, BetterCAP
 
-### 📜 Certifications
-- Fire Detection & Alarm Systems (FDAS)  
-- Structured Cabling Systems  
-- Public Address & Background Music Systems (PABGM)  
-- Auxiliary Systems Training  
-- MikroTik (MTCNA) Training Camp  
-- ECE Career Compass: IT & Engineering Roles  
+**Credentials:** Registered Electronics Engineer (ECE) | Registered Electronics Technician (ECT)
 
----
-
-### 🏆 Achievements
-- **Champion** - Programming Contest *(Python/C)*  
-- **IECEP** - Regional Quizzer  
-- **Thesis:** System Virtualization and Wireless Sensor Network Laboratory Experiment System
+**Certifications:** MikroTik Certified Network Associate (MTCNA Bootcamp) | Cisco Introduction to Cybersecurity
