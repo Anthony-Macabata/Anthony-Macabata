@@ -16,7 +16,7 @@
 ---
 
 ### 💡 Professional Summary
-I am a dual-licensed Electronics Engineer and Technician aspiring to be a Network Engineer. After passing both licensure exams, I dedicated the following months designing and implementing networking projects. Through these projects, I developed hands-on experience in network redundancy, high availability, traffic engineering, security, and wireless network management. Committed to continuous learning, I am actively expanding my knowledge of other networking vendors.
+I am a dual-licensed Electronics Engineer and Technician aspiring to be a Network Engineer. After passing both licensure exams, I dedicated the following months designing and implementing networking projects. Through these projects, I developed hands-on experience in network redundancy, high availability, traffic engineering, security, and wireless network management. Committed to continuous learning, By the time you read this, I am likely studying another networking platform, technology, or vendor to further expand my understanding of enterprise networking.
 
 ---
 
