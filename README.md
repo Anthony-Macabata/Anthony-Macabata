@@ -7,7 +7,7 @@
 **Licensed Electronics and Communication Engineer**  
 **Licensed Electronics Technician**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/anthony-macabata-9675013ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-macabata-9675013ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaberPendragonn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.anthony.macabata@gmail.com)
 
