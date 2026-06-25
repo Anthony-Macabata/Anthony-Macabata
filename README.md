@@ -35,7 +35,7 @@ I am a dual-licensed Electronics Engineer and Technician aspiring to be a Networ
 - Designed an Active-Active enterprise network utilizing VRRP, MSTP, and split-scope DHCP failover to provide resilient gateway, link, and ip-addressing.
 - Validated sub-second failover convergence during simulated router and link failure scenarios
 
-**[Dual-WAN Load Balancing and Failover Architecture (PCC & Recursive Routing)](https://github.com/Anthony-Macabata/Designed-PCC-Queue-Trees-with-CAKE-Smart-Queue-Management)**  
+**[Dual-WAN Load Balancing and Failover Architecture (PCC & Recursive Routing)](https://github.com/Anthony-Macabata/Designed-Dual-WAN-PCC-Load-Balancing-Recursive-Routing-Failover)**  
 - Engineered a Dual-WAN solution using PCC load balancing, and recursive route monitoring for intelligent traffic load balancing and ISP failover
 - Validated automatic recovery during upstream connectivity failures
 
@@ -46,7 +46,7 @@ I am a dual-licensed Electronics Engineer and Technician aspiring to be a Networ
 **[Enterprise Wireless Infrastructure (CAPsMAN, Hotspot, RADIUS, VRRP)](https://github.com/Anthony-Macabata/Deployed-Wireless-Infrastructure-with-CAPsMAN-Hotspot-RADIUS-and-VRRP-Failover)**  
 - Deployed a centrally managed wireless infrastructure with CAPsMAN, Hotspot Captive Portals, and RADIUS authentication for secure access control
 
-**[Hardened Network Infrastructure (Internal, Router & External Security)](https://github.com/Anthony-Macabata/Hardened-Network-Infrastructure-Internal-Router-External-Security-Deployment)**  
+**[Hardened Network Infrastructure (Internal, Router & External Security (ONGOING WILL BE FINISHED BY FRIDAY))](https://github.com/Anthony-Macabata/Hardened-Network-Infrastructure-Internal-Router-External-Security-Deployment)**  
 - Hardened the LAN and WAN via 802.1X RADIUS certificate authentication, VLAN segmentation, DHCP Snooping, ARP isolation, DNS over HTTPS (DoH), Bogon filtering, port scan detection, and mitigation of SYN, UDP, and ICMP flood attacks
 - Hardened the Router via port knocking, custom management ports, eliminated exploits by disabling unnecessary services, bandwidth-test, MAC login, and MNDP discovery
 
