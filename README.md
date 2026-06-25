@@ -31,7 +31,7 @@ I am a dual-licensed Electronics Engineer and Technician aspiring to be a Networ
 
 ## PROJECTS (CLICK THE LINKS)
 
-**[High Availability Enterprise Network (VLANs, VRRP, MSTP, DHCP Failover](https://github.com/Anthony-Macabata/Designed-PCC-Queue-Trees-with-CAKE-Smart-Queue-Management)**  
+**[High Availability Enterprise Network (VLANs, VRRP, MSTP, DHCP Failover](https://github.com/Anthony-Macabata/Built-Active-Active-Enterprise-Core-with-VRRP-MSTP-DHCP-Failover)**  
 - Designed an Active-Active enterprise network utilizing VRRP, MSTP, and split-scope DHCP failover to provide resilient gateway, link, and ip-addressing.
 - Validated sub-second failover convergence during simulated router and link failure scenarios
 
